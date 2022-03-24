@@ -1,4 +1,5 @@
 tmp
+*_old
 img/*_old
 img/*_backup
 js/*_old
